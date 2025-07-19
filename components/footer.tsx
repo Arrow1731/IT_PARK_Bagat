@@ -54,19 +54,19 @@ export function Footer() {
           <div className="space-y-4">
             <h3 className="font-semibold text-lg">Контакты</h3>
             <div className="space-y-2 text-green-100">
-              <a href="tel:+998711234567" className="block hover:text-white transition-colors">
-                📞 +998 71 123 45 67
+              <a href="tel:+998977926299" className="block hover:text-white transition-colors">
+                 +998 97 792 62 99
               </a>
               <a href="mailto:info@itpark.uz" className="block hover:text-white transition-colors">
-                ✉️ info@itpark.uz
+                
               </a>
               <a
-                href="https://maps.google.com/?q=Tashkent,Uzbekistan"
+                href="https://maps.app.goo.gl/ECUHhBKeRNEWbH6o8"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block hover:text-white transition-colors"
               >
-                📍 Ташкент, Узбекистан
+                Богатский район, Хорезмский область, Узбекистан
               </a>
             </div>
           </div>
